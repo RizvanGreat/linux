@@ -1,0 +1,17 @@
+[ec2-user@ip-172-31-33-20 ~]$ mkdir 020523e
+[ec2-user@ip-172-31-33-20 ~]$ ls
+020523e            206.06.23         406.06.23         8_01.06.2023.txt  Artjom_Alexandrov  dockerNazar     linux                Nam              Ruslan         taskWeht.sh           zans
+10_01.06.2023.txt  280323_morning    5_01.06.2023.txt  8_01.06.23.txt    authorized_keys    ElenaSorokina   Malinovskis          nano.save        SavchenkoE     testlink-persistence  zari
+10_01.06.23.txt    3_01.06.2023.txt  5_01.06.23.txt    806.06.23         basic_51-52e       Elina_Sirotina  mariadb-persistence  nata             script5.sh     tokarev               zarina
+1006.06.23         3_01.06.23.txt    506.06.23         9_01.06.2023.txt  bin                file.txt        mariia               newtest          server.js      Uliana_Shevchuk       zibla
+1_01.06.2023.txt   306.06.23         6_01.06.2023.txt  9_01.06.23.txt    Bohatyrova         git             Mariia_Shulha        newViktor        Seymur         ValeriiaKul           Загрузки
+1_01.06.23.txt     33_34             6_01.06.23.txt    906.06.23         chmo´d_files       images          marija.F             Nicholay_Telran  shustrova      VAndreev
+106.06.23          3536e             606.06.23         almakaev          chumak             karina          Mark                 OneDrive         Skiba          vera
+2_01.06.2023.txt   3738e             7_01.06.2023.txt  anannn            computer-tennis    Khudoshyn       Meyer                output.txt       taskHALINA.sh  Yevhen
+2_01.06.23.txt     4_01.06.2023.txt  7_01.06.23.txt    andrei.sh         +%d:%m:%y          Kovalkova       Mr.Nicolay_has_come  parkhomchyk      taskIVAN       YevhenV
+2023               4_01.06.23.txt    706.06.23         Arseni            docker-demo        lia             Nadiia               POLINA           taskmarina.sh  Yezhov
+[ec2-user@ip-172-31-33-20 ~]$ cd 020523e
+[ec2-user@ip-172-31-33-20 020523e]$ mkdir Riz
+[ec2-user@ip-172-31-33-20 020523e]$ ls
+Riz
+[ec2-user@ip-172-31-33-20 020523e]$
